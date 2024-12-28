@@ -1,7 +1,7 @@
 import React from 'react';
 import { BrowserRouter, Routes, Route, Outlet, Link } from 'react-router-dom';
 import Website from './Website';
-import AboutPage from './AboutPage';
+import AboutPage from './Aboutpage';
 import ContactPage from './ContactPage';
 import './index.css'
 
